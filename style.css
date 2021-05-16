@@ -1,0 +1,21 @@
+.header{
+    background-color: rgb(206, 200, 200);
+    display: flex;
+    justify-content:left;
+}
+
+h1{
+    color:brown ;
+}
+
+.menu{
+    display: flex;
+    align-content: space-between;
+}
+
+.content{
+    background-color: rgb(231, 239, 243);
+    display:flex;
+   flex-wrap: wrap;
+    
+}
